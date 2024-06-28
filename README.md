@@ -1,4 +1,5 @@
-![archi](https://github.com/jyh-aton/dev2-study/assets/173215413/b61afcc2-3bc4-4a99-8d74-f96d5fc14d7d)
+![archi](https://github.com/jyh-aton/dev2-study/assets/173215413/b5dfaea1-fd02-4bad-8727-b8fed7aa0e3a)
+
 
 # 소개
 mqtt를 활용한 1:1 대화 시스템
